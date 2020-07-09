@@ -19,5 +19,5 @@ I'm a Computer Programmer living in Omaha, NE.  My day job is great: developing 
 - 💬 Ask me about [MCC Code School](https://mccneb.edu/CodeSchool.aspx)
 - 📫 How to reach me: <a href="https://twitter.com/MattPayneOrg">@MattPayneOrg</a> 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: [The Coding Train](https://www.youtube.com/watch?v=cEGMAu2CMRc) recently introduced me https://www.twitch.tv/cozycoding -- Aren is amazing!
+- ⚡ Fun fact: [The Coding Train](https://www.youtube.com/watch?v=cEGMAu2CMRc) recently introduced me to https://www.twitch.tv/cozycoding -- Aren is amazing!
 
