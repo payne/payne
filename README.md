@@ -15,7 +15,7 @@ I'm a Computer Programmer living in Omaha, NE.  My day job is great: developing 
 - 🔭 I’m currently working on my two delightful jobs
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on a open source with other citizens of Omaha, NE.
-- 🤔 I’m looking for help with OJUG.org and co-workers for [MCC Code School](https://mccneb.edu/CodeSchool.aspx)
+- 🤔 I’m looking for help with [Omaha Java Users Group](http://OJUG.org) and finding co-workers for [MCC Code School](https://mccneb.edu/CodeSchool.aspx)
 - 💬 Ask me about [MCC Code School](https://mccneb.edu/CodeSchool.aspx)
 - 📫 How to reach me: <a href="https://twitter.com/MattPayneOrg">@MattPayneOrg</a> 
 - 😄 Pronouns: he/him
